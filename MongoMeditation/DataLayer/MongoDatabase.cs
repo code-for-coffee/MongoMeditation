@@ -13,5 +13,9 @@ namespace MongoMeditation
 		protected static IMongoClient _client = new MongoClient();
 		protected static IMongoDatabase _db = _client.GetDatabase(database);
 		public static string database { get; set; }
+		public IMongoDatabase db()
+		{
+			return _db;
+		}
 	}
 }

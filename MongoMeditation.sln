@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoMeditation", "MongoMeditation\MongoMeditation.csproj", "{069AD970-3047-456D-AA49-B51FA92FAE64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoMeditation.Tests", "MongoMeditation.Tests\MongoMeditation.Tests.csproj", "{2B60F94B-8B22-4D27-841B-39AD177D0EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069AD970-3047-456D-AA49-B51FA92FAE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069AD970-3047-456D-AA49-B51FA92FAE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069AD970-3047-456D-AA49-B51FA92FAE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069AD970-3047-456D-AA49-B51FA92FAE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B60F94B-8B22-4D27-841B-39AD177D0EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B60F94B-8B22-4D27-841B-39AD177D0EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B60F94B-8B22-4D27-841B-39AD177D0EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B60F94B-8B22-4D27-841B-39AD177D0EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
